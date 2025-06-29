@@ -30,5 +30,3 @@ git repo clone RobsonVargasS/MyFirstRepository.git
 
 https://github.com/RobsonVargasS/MyFirstRepository.git
 
-# Navigate to the folder
-cd your-repo-name
