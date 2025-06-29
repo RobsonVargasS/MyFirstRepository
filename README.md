@@ -26,7 +26,7 @@ It contains basic files and serves as a sandbox for learning.
 
 ## Clone this repository
 
-git repo clone RobsonVargasS/MyFirstRepository
+git repo clone RobsonVargasS/MyFirstRepository.git
 
 https://github.com/RobsonVargasS/MyFirstRepository.git
 
