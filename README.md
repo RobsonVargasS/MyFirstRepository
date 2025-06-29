@@ -19,3 +19,16 @@ It contains basic files and serves as a sandbox for learning.
 - Git
 - GitHub
 - GitHubPages
+
+## 📦 How to Use
+
+```bash
+
+## Clone this repository
+
+git repo clone RobsonVargasS/MyFirstRepository
+
+https://github.com/RobsonVargasS/MyFirstRepository.git
+
+# Navigate to the folder
+cd your-repo-name
